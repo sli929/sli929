@@ -1,4 +1,4 @@
-	1. Enroll BYOD device to Intune-
+1. Enroll BYOD device to Intune-
 
 Create MAM user scope for BYOD devices. Configure MAM user scope to allow [some]
 
@@ -8,3 +8,4 @@ Mobile Application Management user scope is valid for BYOD (Bring your Own Devic
 MAM is the option for users who don’t want to enroll their personal devices, but still wanted to use organization resources / apps such as Office 365, teams etc.
 
 Devices with workplace join (Azure AD registered) are treated as personal device.
+
